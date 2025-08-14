@@ -1757,7 +1757,7 @@ section,
   border: 2px solid color-mix(in srgb, var(--accent-color), transparent 90%);
   transition: all 0.3s ease;
 
-  min-height: 380px; /* atau sesuaikan */
+  min-height: 380px; 
   display: flex;
   flex-direction: column;
   justify-content: space-between;
